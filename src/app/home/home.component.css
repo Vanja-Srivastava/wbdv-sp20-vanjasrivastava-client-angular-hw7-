@@ -1,5 +1,3 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
-@import '~font-awesome/css/font-awesome.css';
 
 body{
   background-image: url("src/assets/images/background.jpg");
@@ -33,19 +31,7 @@ body{
 }
 
 .view-link, .view-link.active:hover, .view-link:focus {
-
   color: #FF5733;
-
-
 }
-
-
-
-
-/*.home-title {*/
-/*  margin-left: 420px;*/
-/*  margin-top: 20px;*/
-/*  color: white;*/
-/*}*/
 
 
