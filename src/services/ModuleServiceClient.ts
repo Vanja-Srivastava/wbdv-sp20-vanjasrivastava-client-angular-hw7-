@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {MODULES_API_URL_FINDMODULE, MODULES_API_URL} from '../common/Constants';
+import {MODULES_API_URL_FINDMODULE, MODULES_API_URL} from '../common/constants';
 
 @Injectable()
 export class ModuleServiceClient {

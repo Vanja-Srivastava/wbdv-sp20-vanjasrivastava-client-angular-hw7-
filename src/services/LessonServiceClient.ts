@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {LESSONS_API_URL_FINDLESSONS, LESSONS_API_URL} from '../common/Constants';
+import {LESSONS_API_URL_FINDLESSONS, LESSONS_API_URL} from '../common/constants';
 
 
 @Injectable()

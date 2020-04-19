@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {COURSES_API_URL} from '../common/Constants';
+import {COURSES_API_URL} from '../common/constants';
 
 @Injectable()
 export class CourseServiceClient {
