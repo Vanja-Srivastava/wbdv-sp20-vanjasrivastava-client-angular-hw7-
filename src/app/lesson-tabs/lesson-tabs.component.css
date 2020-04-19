@@ -1,0 +1,22 @@
+.selected {
+  background-color: powderblue !important;
+}
+
+.selected a {
+  color: plum !important;
+}
+
+.lesson-tab {
+  background-color: blanchedalmond;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.l-link {
+  color: palevioletred;
+  font-weight: bold;
+}
+
+.lessons {
+  margin-top: 10px;
+}

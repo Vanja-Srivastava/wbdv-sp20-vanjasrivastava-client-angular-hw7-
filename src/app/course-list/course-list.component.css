@@ -1,0 +1,34 @@
+
+.cl-nav {
+  background-color: cadetblue !important;
+  margin-left: -200px;
+  margin-right: -200px;
+}
+
+.title-nav {
+  color: rebeccapurple;
+  font-family: cursive;
+  margin-left: 380px;
+}
+
+.course-list {
+  margin-top: 20px;
+}
+
+.course-row {
+  width: 1200px;
+  background-color: moccasin;
+
+}
+
+.link {
+  color: crimson;
+}
+
+.home-btn {
+  margin-left: 50px;
+}
+
+.c-name {
+  font-weight: bold;
+}

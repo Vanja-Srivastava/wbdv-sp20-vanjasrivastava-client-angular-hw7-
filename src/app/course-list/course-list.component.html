@@ -1,0 +1,26 @@
+<div class="bg">
+  <nav class="navbar navbar-top cl-nav">
+    <div class="col-sm-1 home-btn ">
+      <a href="/"><input type="image" src="../../assets/images/home.svg"/></a>
+    </div>
+<!--    <div class="col-sm-1 home-btn ml-5">-->
+<!--      <a href="/"><i class = "fa fa-times"></i></a>-->
+<!--    </div>-->
+
+    <div class="col-sm-10">
+      <h2 class="title-nav">Course List</h2>
+    </div>
+  </nav>
+  <div class="list-group course-list">
+    <div class="col-sm-12">
+      <ul *ngFor="let course of courses">
+        <div class="row">
+          <li class="list-group-item course-row">
+            <a class="c-name link" href="/course/{{course._id}}">{{course.title}}</a>
+          </li>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
+

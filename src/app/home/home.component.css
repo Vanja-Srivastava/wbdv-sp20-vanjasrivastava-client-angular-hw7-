@@ -1,0 +1,51 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import '~font-awesome/css/font-awesome.css';
+
+body{
+  background-image: url("src/assets/images/background.jpg");
+  background-size: cover;
+  height: 100%;
+  margin-top: 12px;
+  font-family: 'Numans', sans-serif;
+  width: 100%;
+}
+
+.container-fluid{
+  height: 100%;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+
+.card{
+  height: 370px;
+  width: 400px;
+
+}
+
+.card-header h1{
+  color: #FF9333;
+}
+
+.login_btn{
+  color: black;
+  background-color: red;
+  width: 100px;
+}
+
+.view-link, .view-link.active:hover, .view-link:focus {
+
+  color: #FF5733;
+
+
+}
+
+
+
+
+/*.home-title {*/
+/*  margin-left: 420px;*/
+/*  margin-top: 20px;*/
+/*  color: white;*/
+/*}*/
+
+

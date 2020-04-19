@@ -1,0 +1,15 @@
+.cl-nav {
+  background-color: cadetblue !important;
+  margin-left: -200px;
+  margin-right: -200px;
+}
+
+.title-nav {
+  color: rebeccapurple;
+  font-family: Courier;
+  margin-left: 310px;
+}
+
+.home-btn {
+  margin-left: 20px;
+}

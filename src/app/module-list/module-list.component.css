@@ -1,0 +1,22 @@
+.selected {
+  background-color: coral !important;
+}
+
+.selected a {
+  color: royalblue !important;
+}
+
+.module-row {
+  background-color: moccasin;
+  margin-bottom: 10px;
+  width: 80%;
+}
+
+.mod-link {
+  color: crimson;
+  font-weight: bold;
+}
+
+.modules {
+  margin-top: 20px;
+}
